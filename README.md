@@ -9,12 +9,6 @@ The main code was taken from the OpenRGB app.
 
 Usage examples: [examples](https://github.com/hteppl/keyboard-hid/tree/master/examples)
 
-## How to install
-
-Just download and use:
-
-`pip install -r requirements.txt`
-
 ## Features
 
 - [ ] Flexible support other keyboards
@@ -26,6 +20,12 @@ Just download and use:
     - [x] Separate key setting with RGB
 -
     - [ ] Maybe word printing...
+
+## How to Install
+
+Just download and use:
+
+`pip install -r requirements.txt`
 
 ## Projects Used
 
