@@ -15,6 +15,18 @@ Just download and use:
 
 `pip install -r requirements.txt`
 
+## Features
+
+- [ ] Flexible support other keyboards
+- [x] Keyrox TKL keyboard support
+- Keyrox TKL
+-
+    - [x] Change modes
+-
+    - [x] Separate key setting with RGB
+-
+    - [ ] Maybe word printing...
+
 ## Projects Used
 
 - OpenRGB: https://github.com/CalcProgrammer1/OpenRGB
