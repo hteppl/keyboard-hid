@@ -1,0 +1,2 @@
+class KeyBufferException(Exception):
+    pass
